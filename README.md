@@ -1,2 +1,3 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+# Frutaria-Alura
+
+Projeto da Frutaria Alura com as minhas modificações.
